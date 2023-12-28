@@ -3,6 +3,7 @@
  ![Описание изображения](https://i.imgur.com/c0UWtNJ.png)
 
 Добавляет пиратские альтернативы на сайт Steam, имеет русский перевод и так же +2 сайта для ру пользователей.
+[Оригинальный репозиторий](https://github.com/iMAboud/iMSteam/)
 
 ## Функции
 Ищет игру Steam, которую вы просматриваете, на веб-странице взломанной игры.
@@ -34,6 +35,7 @@
 ![Image Description](https://i.imgur.com/HVNIMLQ.png)
 
 Adds pirated alternatives on Steam's website, has a Russian translation and also +2 sites for RU users.
+[Original repository](https://github.com/iMAboud/iMSteam/)
 
 ## Features
 Searches for the Steam game you're viewing on the web-page on a cracked game. 
